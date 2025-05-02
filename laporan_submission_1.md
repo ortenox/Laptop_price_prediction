@@ -164,19 +164,18 @@ Dengan rentang harga laptop antara 174 euro hingga 6099 euro, kesalahan rata-rat
 **Rubrik/Kriteria Tambahan (Opsional)**: 
 1. Mean Squared Error (MSE)
 MSE mengukur rata-rata dari kuadrat selisih antara nilai prediksi dan nilai aktual.
-![MSE](https://drive.google.com/file/d/1UZQ8OZT0_lhzHKMAxOHFLHLIg0NkMKDI/view?usp=drive_link)
+![MSE](https://github.com/user-attachments/assets/d75c56a3-9b1d-418b-ac58-37627ba48f9f)
 
 Semakin kecil nilai MSE, semakin kecil rata-rata kesalahan kuadrat model terhadap data aktual. MSE lebih memperbesar penalti untuk prediksi yang jauh dari nilai sebenarnya karena kuadrat perbedaan.
 
 2. Mean Absolute Error (MAE)
 MAE mengukur rata-rata selisih absolut antara nilai prediksi dan nilai aktual.
-![MAE](https://drive.google.com/file/d/1rPNxixFIBQWXg-B7D0i-Nn93ak7XIXmW/view?usp=drive_link)
+![MAE](https://github.com/user-attachments/assets/0024f850-9f5e-4aeb-8a5e-8b5badeb69ef)
 
 MAE lebih mudah diinterpretasikan karena berada dalam satuan yang sama dengan target. MAE tidak terlalu memperbesar penalti untuk kesalahan besar (tidak mengkuadratkan error).
 
-3. RMSE adalah akar dari MSE, sehingga memiliki satuan yang sama dengan target. 
-![RMSE](https://drive.google.com/file/d/18w_9nzVF-vH2gomhFXzg7GpWuNA0PHg_/view?usp=drive_link)
-![image](https://github.com/user-attachments/assets/9fa318b7-bd1f-475f-9c42-369df6a14010)
+3. RMSE adalah akar dari MSE, sehingga memiliki satuan yang sama dengan target.
+![RMSE](https://github.com/user-attachments/assets/77972c06-98e6-4046-a902-ea1f5494e21c)
 
 RMSE lebih sensitif terhadap outlier dibanding MAE, karena error dikalikan dengan dirinya sendiri sebelum dijumlahkan.
 
