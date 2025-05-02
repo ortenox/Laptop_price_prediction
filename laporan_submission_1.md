@@ -176,6 +176,7 @@ MAE lebih mudah diinterpretasikan karena berada dalam satuan yang sama dengan ta
 
 3. RMSE adalah akar dari MSE, sehingga memiliki satuan yang sama dengan target. 
 ![RMSE](https://drive.google.com/file/d/18w_9nzVF-vH2gomhFXzg7GpWuNA0PHg_/view?usp=drive_link)
+![image](https://github.com/user-attachments/assets/9fa318b7-bd1f-475f-9c42-369df6a14010)
 
 RMSE lebih sensitif terhadap outlier dibanding MAE, karena error dikalikan dengan dirinya sendiri sebelum dijumlahkan.
 
