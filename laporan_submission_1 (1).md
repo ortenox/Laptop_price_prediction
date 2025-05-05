@@ -99,8 +99,8 @@ Dataset diperoleh dari Kaggle: [Laptop Price Dataset](https://www.kaggle.com/dat
 ### Pemeriksaan Data
 
 - **Missing Values**:
-    missing_values = df.isnull().sum()
-    missing_values[missing_values > 0]
+  - missing_values = df.isnull().sum()
+  - missing_values[missing_values > 0]
   - Tidak ditemukan nilai kosong pada semua kolom (`1303 non-null`), artinya data bersih dari *missing values*.
 
 - **Data Duplikat**:
@@ -126,9 +126,9 @@ Model dilatih menggunakan semua fitur numerik dan hasil encoding dari fitur kate
 Linear Regression adalah algoritma regresi linier yang memodelkan hubungan antara fitur input dan target sebagai kombinasi linier. Model ini mencoba mencari garis lurus terbaik yang meminimalkan selisih kuadrat antara prediksi dan nilai aktual.
 
 Rumus dasar:
-\[
-y = \beta_0 + \beta_1x_1 + \beta_2x_2 + ... + \beta_nx_n
-\]
+![image](https://github.com/user-attachments/assets/28dd6d74-c126-4e7c-a063-bba509138745)
+![image](https://github.com/user-attachments/assets/f477baec-96d5-43ed-b319-7fcbc37dfb03)
+
 
 #### Parameter
 - Menggunakan pengaturan default dari LinearRegression() pada scikit-learn.
