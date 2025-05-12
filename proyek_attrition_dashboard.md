@@ -22,7 +22,7 @@ Perusahaan Edutech Jaya Jaya Maju mengalami peningkatan angka attrition atau pen
 
 ## Persiapan
 
-**Sumber Data:** Dataset karyawan internal yang berisi data demografis, kepuasan kerja, dan informasi kompensasi.
+**Sumber Data:** [Dataset karyawan internal yang berisi data demografis, kepuasan kerja, dan informasi kompensasi.](https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv)
 
 **Setup environment:**
 
@@ -137,8 +137,7 @@ Dashboard interaktif dibuat menggunakan **Metabase**. Visualisasi mencakup:
 - Rata-rata penghasilan bulanan (MonthlyIncome)
 
 Contoh tampilan dashboard:
-
-![dashboard](3e291b15-1a5b-44f5-aec5-94291b34b28e.png)
+<img width="540" alt="METABASE" src="https://github.com/user-attachments/assets/65adc784-061f-4561-b8e8-48d3d49dae90" />
 
 ## Conclusion
 
