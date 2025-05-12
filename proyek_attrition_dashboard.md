@@ -1,9 +1,9 @@
 
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Jaya Jaya Maju
 
 ## Business Understanding
 
-Perusahaan Edutech Jaya Jaya Maju mengalami peningkatan angka attrition atau pengunduran diri karyawan dalam kurun waktu tertentu. Hal ini berdampak pada operasional karena kehilangan SDM yang berpengalaman dapat menghambat produktivitas. Oleh karena itu, perusahaan membutuhkan solusi berbasis data untuk memahami faktor-faktor penyebab attrition dan mengantisipasinya secara proaktif.
+Perusahaan Jaya Jaya Maju mengalami peningkatan angka attrition atau pengunduran diri karyawan dalam kurun waktu tertentu. Hal ini berdampak pada operasional karena kehilangan SDM yang berpengalaman dapat menghambat produktivitas. Oleh karena itu, perusahaan membutuhkan solusi berbasis data untuk memahami faktor-faktor penyebab attrition dan mengantisipasinya secara proaktif.
 
 ## Permasalahan Bisnis
 
